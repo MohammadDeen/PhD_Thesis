@@ -51,6 +51,8 @@ Thumbs.db
 # Obsidian
 .obsidian/workspace.json
 .obsidian/workspaces.json
+.obsidian/cache/
+.trash/
 
 # OS clutter
 .DS_Store
