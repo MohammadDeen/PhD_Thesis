@@ -73,3 +73,7 @@ data/raw/
 # outputs
 results/
 cache/
+
+# Quarto/site build
+_site/
+.quarto/
