@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Identification and functional characterisation of genetic variants in pustular psoriasis and chronic nonbacterial osteomyelitis"
+  author: "Mohammed"
+  chapters:
+    - index.qmd
+    - chapters/01-introduction.qmd
+    - chapters/02-genetics.qmd
+    - chapters/03-functional.qmd
+    - chapters/04-rnaseq.qmd
+    - chapters/05-discussion.qmd
+
+bibliography: refs.bib
+
+format:
+  html:
+    toc: true
+
+  pdf:
+    documentclass: report
