@@ -1,0 +1,2 @@
+Identification of 2 stop variants in patients with CNO
+In the process of introducing frameshif or truncating mutations into MUTZ3 via CRISPR cas9 and then differentiation them into osteoclasts to see if the mutation has effect on differentiation or function

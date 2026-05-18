@@ -4,6 +4,8 @@
 - [[PTGS1 Project]]
 - [[IL1RN Project]]
 - [[Public RNAseq Reanalysis]]
+- [[FN1 and CNO]]
+- [[VSIG4 and CNO]]
 
 ## Thesis
 - [[Chapter Outline]]
@@ -29,3 +31,8 @@
 - ## Open Questions  
 - Why reduced PGE2?  
 - Does IL1RN alter transcription?
+
+## Literature Notes
+[[Paper - Fiskin 2026 Skin Atlas AD]]
+[[CRISPR-Cas9 system]]
+
