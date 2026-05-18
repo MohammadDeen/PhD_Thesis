@@ -11,6 +11,8 @@ book:
     - chapters/03-functional.qmd
     - chapters/04-rnaseq.qmd
     - chapters/05-discussion.qmd
+    - chapters/06-materials-methods.qmd
+
 
 bibliography: refs.bib
 
