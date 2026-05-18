@@ -1,0 +1,10 @@
+# Genetic Risk Factors
+
+## Candidate genes
+
+- IL36RN
+- PTGS1
+- VSIG4
+- IL1RN
+- FN1
+
