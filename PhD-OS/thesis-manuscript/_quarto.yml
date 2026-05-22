@@ -22,3 +22,11 @@ format:
 
   pdf:
     documentclass: report
+    toc: true
+    number-sections: true
+    fig-pos: "H"
+
+  docx:
+    toc: true
+    number-sections: true
+    reference-doc: null
