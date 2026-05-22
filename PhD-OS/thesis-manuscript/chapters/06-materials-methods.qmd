@@ -1,1 +1,75 @@
-# Materials and Methods
+# 6. Materials and Methods
+
+## 6.1. Patient Recruitment
+
+## 6.2. Primer Design
+
+Primers were designed for Sanger sequencing and colony PCR to confirm the identity and orientation of cloned inserts and to verify site-directed mutagenesis of VSIG4 and PTGS1 constructs or CRISPR efficiency. Mutagenic primers for site-directed mutagenesis were designed manually to incorporate the desired missense and stop variants or alternatively designed using the NEBuilder Assembly Tool (New England Biolabs). For all other primers, the tool Primer3web version 4.1.0 was used. Reference sequences were fetched from the UCSC Genome Browser (hg19). In the extended colour options, exons, common SNPs and repeat regions were marked. The annotated sequence was then copied into a Word file, where the positions of the forward and reverse primers were manually located and marked. Primers that overlapped with a SNP or repeat region were excluded and replaced with alternative primer sets. General primer picking conditions were set as follows: primer size minimum 18 bp, optimum 20 bp, maximum 23 bp; primer Tm minimum 57.0 °C, optimum 59.0 °C, maximum 62.0 °C with a maximum Tm difference of 5.0 °C; primer GC content minimum 30.0%, optimum 50.0%, maximum 70.0%. Thermodynamic parameters were calculated using the SantaLucia 1998 table.
+
+## 6.3. Polymerase Chain Reaction (PCR)
+
+Polymerase chain reaction (PCR) was performed to amplify DNA fragments for colony screening and sequence verification. A standard reaction was used, if not indicated otherwise (@tbl-pcr-reaction).
+
+| Reagent | Volume (µL) |
+|:---|---:|
+| Nuclease-free water | 6.50 |
+| Betaine | 3.00 |
+| 10× reaction buffer | 1.50 |
+| dNTPs | 1.00 |
+| DMSO | 0.75 |
+| Forward primer (10 µM) | 0.50 |
+| Reverse primer (10 µM) | 0.50 |
+| MgCl~2~ | 0.45 |
+| Taq polymerase | 0.07 |
+
+: PCR reaction setup (1× volumes) {#tbl-pcr-reaction}
+
+Incubation took place in a thermocycler using the programme Cx32 (@tbl-cx32).
+
+| Temperature | Time | Cycles |
+|:---|:---|:---|
+| 94 °C | 3 min | Initial denaturation |
+| 94 °C | 20 sec | |
+| 65 °C → 56 °C (−1 °C/cycle) | 60 sec | 9 touchdown cycles |
+| 68 °C | 60 sec | |
+| 94 °C | 20 sec | |
+| 55 °C | 60 sec | 29 amplification cycles |
+| 68 °C | 60 sec | |
+| 68 °C | 10 min | Final extension |
+| 15 °C | Hold | |
+
+: Thermocycler programme Cx32 {#tbl-cx32}
+
+For longer fragments (>1 kbp), the elongation time was adjusted to 1 min per 1 kbp. In some experiments, the programme Cx32_55_2min was used, which employed an annealing temperature of 55 °C and an extension time of 2 minutes. All primers were purchased from Thermo Fisher Scientific. Stock solutions (100 µM) were prepared by dissolving oligonucleotides in nuclease-free water, and working solutions were prepared at a concentration of 10 µM.
+
+## 6.4. Agarose Gel Electrophoresis
+
+To verify whether PCR fragments had the expected size, agarose gel electrophoresis was performed. Agarose gels of 1–1.5% (w/v) were prepared in TBE buffer. A DNA binding dye was added to the molten agarose before casting. Before loading, 3 µL of loading dye was added to 3–6 µL of PCR product. A 1 kb Plus DNA Ladder (Bio-Rad) was used as a size reference. Gels were run in TBE-filled electrophoresis chambers at 100–220 V for 20–30 minutes and imaged on a ChemiDoc™ Touch Imaging System (Bio-Rad).
+
+## 6.5. Sanger Sequencing
+
+Sanger sequencing was used to confirm the identity and sequence integrity of plasmid constructs and to verify site-directed mutagenesis. PCR products intended for sequencing were first cleaned up using AMPure XP magnetic beads (Beckman Coulter), either manually or via a Biomek pipetting robot. Alternatively, plasmid DNA (50 ng/µL) was used directly in the sequencing reaction without prior cleanup. The sequencing reaction was performed using the BigDye Terminator v3.1 cycle sequencing kit (Thermo Fisher Scientific, @tbl-seq-reaction).
+
+| Reagent | Volume (µL) |
+|:---|---:|
+| Sequencing buffer | 2.00 |
+| BigDye Premix | 0.25 |
+| Nuclease-free water | 6.00 |
+| Forward or reverse primer (10 µM) | 0.30 |
+| Cleaned PCR product | 1.00 |
+| — or plasmid DNA (50 ng/µL) | 0.66 |
+
+: Sequencing reaction setup (1× volumes) {#tbl-seq-reaction}
+
+The reaction was performed using the thermocycler programme BigDye_55_2min (@tbl-bigdye55). For longer transcripts (>750 bp), the extension step at 60 °C was prolonged to 4 minutes. The total run time was approximately 1 hour 46 minutes.
+
+| Temperature | Time | Cycles |
+|:---|:---|:---|
+| 96 °C | 10 sec | |
+| 55 °C | 10 sec | 25 cycles |
+| 60 °C | 2 min | |
+| 15 °C | 10 min | Hold |
+
+: Thermocycler programme BigDye_55_2min {#tbl-bigdye55}
+
+The sequencing product was purified using CleanSEQ magnetic beads (Beckman Coulter), either manually on a Kisker magnetic plate or via the Biomek pipetting robot. For manual cleanup, 10 µL of CleanSEQ solution was added to each sequencing reaction, followed by 42 µL of 85% ethanol. The mixture was pipetted up and down seven times and incubated for 3 minutes on the magnetic plate. The supernatant was removed by careful aspiration. Wells were washed with 100 µL of 85% ethanol, incubated for at least 30 seconds, and aspirated. The plate was air-dried for approximately 10 minutes at room temperature. The beads were re-hydrated with 60 µL of nuclease-free water and incubated for 3–5 minutes. The plate was returned to the magnetic plate for approximately 3 minutes, and 40 µL of clear eluate was transferred to a fresh capillary electrophoresis plate. Sequence detection was performed on an ABI 3730 DNA Analyzer (Thermo Fisher Scientific).
