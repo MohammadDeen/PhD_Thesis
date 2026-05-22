@@ -201,8 +201,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "839bb5881a262990",
+  "active": "0e0c6c8c5f3bc15c",
   "lastOpenFiles": [
+    "thesis-manuscript/_book/site_libs/quarto-html/tabsets/tabsets.js",
+    "thesis-manuscript/_book/site_libs/quarto-search/quarto-search.js",
+    "thesis-manuscript/_book/site_libs/quarto-search/autocomplete.umd.js",
+    "thesis-manuscript/_book/site_libs/quarto-search/fuse.min.js",
+    "thesis-manuscript/_book/site_libs/quarto-nav/quarto-nav.js",
+    "thesis-manuscript/_book/site_libs/quarto-nav/headroom.min.js",
+    "thesis-manuscript/_book/site_libs/bootstrap/bootstrap.min.js",
+    "thesis-manuscript/_book/site_libs/bootstrap/bootstrap-icons.woff",
+    "thesis-manuscript/_book/site_libs/bootstrap/bootstrap-icons.css",
+    "thesis-manuscript/_book/site_libs/bootstrap/bootstrap-41d61366cb11220c48f4f4aa0bca5522.min.css",
+    "thesis-manuscript/_book/site_libs/clipboard/clipboard.min.js",
     "00 Dashboard/Thesis Overview.md",
     "Daily To do.md",
     "02 Literature Notes/Furer et al. 2024 Current and future advances in practice- SAPHO syndrome and chronic non-bacterial osteitis (CNO).md",
@@ -229,16 +240,6 @@
     "Mentoring Committee.md",
     "04 Projects/VSIG4 and CNO.md",
     "04 Projects/IL1RN Project.md",
-    "04 Projects/Functional characterisation of VSIG4 and FN1 variants via CRISPR.md",
-    "05 Thesis Planning",
-    "11 Inbox",
-    "10 Meetings",
-    "Daily Note.md.base",
-    "Untitled 1.base",
-    "Untitled 2.base",
-    "Attachments",
-    "Templates",
-    "09 Protocols",
-    "08 Ideas"
+    "04 Projects/Functional characterisation of VSIG4 and FN1 variants via CRISPR.md"
   ]
 }
