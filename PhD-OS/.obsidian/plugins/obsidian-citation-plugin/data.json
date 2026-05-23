@@ -5,5 +5,5 @@
   "literatureNoteContentTemplate": " Templates/literature-note.md",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "V:\\AG Hueffmeier\\Mitarbeiter\\Deen\\PhD_Thesis\\PhD-OS\\thesis-manuscript"
+  "citationExportPath": "V:\\AG Hueffmeier\\Mitarbeiter\\Deen\\PhD_Thesis\\PhD-OS\\thesis-manuscript\\refs.bib"
 }
