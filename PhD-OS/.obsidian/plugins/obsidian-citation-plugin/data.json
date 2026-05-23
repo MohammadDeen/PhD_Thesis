@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": " 02 Literature Notes",
+  "literatureNoteContentTemplate": " Templates/literature-note.md",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "V:\\AG Hueffmeier\\Mitarbeiter\\Deen\\PhD_Thesis\\PhD-OS\\thesis-manuscript"
+}

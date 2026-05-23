@@ -27,5 +27,19 @@
 
 ==18.05.2026==
 
-- [ ] Start CRISPR
-- [ ] Start Osteoclast diff from RAW cells?
+- [x] Start CRISPR ✅ 2026-05-21
+- [x] Start Osteoclast diff from RAW cells? ✅ 2026-05-21
+
+==21.05.2026==
+
+- [x] Isoolate PBMCs from heparin blood and start osteoclast diff. 1 patient, 3 controls, OC1-3 = coontrols ✅ 2026-05-21
+- [ ] Write methods section thesis
+- [ ] PCR AB
+- [x] Feed Osteoclast (RAW) ✅ 2026-05-21
+
+
+==22.05.2026==
+- [x] Write methods section thesis ✅ 2026-05-23
+- [ ] end Raw osteoclasts experiment?
+- [ ] Find Journal club paper
+- [x] Work on manuscript ✅ 2026-05-23
