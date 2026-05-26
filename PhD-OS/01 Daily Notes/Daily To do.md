@@ -47,7 +47,7 @@
 
 ==26.05.2026==
 
-- [ ] Split SAOS2 cells,
-- [ ] Split RAW cells
+- [x] Freez SAOS2 cells, ✅ 2026-05-26
+- [x] Split RAW cells ✅ 2026-05-26
 - [ ] write cohort selection methods manuscript
 - [ ] 
