@@ -4,6 +4,7 @@ project:
 book:
   title: "Identification and functional characterisation of genetic variants in pustular psoriasis and chronic nonbacterial osteomyelitis"
   author: "Mohammed"
+  downloads: [pdf, docx]
   chapters:
     - index.qmd
     - chapters/01-introduction.qmd

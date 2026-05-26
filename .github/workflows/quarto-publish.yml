@@ -22,14 +22,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Quarto
+      - name: Set up Quarto (with TinyTeX for PDF)
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
 
-      - name: Render thesis (HTML)
+      - name: Render thesis (HTML + PDF)
         uses: quarto-dev/quarto-actions/render@v2
         with:
           path: PhD-OS/thesis-manuscript
-          to: html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
