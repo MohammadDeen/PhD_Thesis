@@ -40,6 +40,14 @@
 
 ==22.05.2026==
 - [x] Write methods section thesis ✅ 2026-05-23
-- [ ] end Raw osteoclasts experiment?
+- [x] end Raw osteoclasts experiment? ✅ 2026-05-26
 - [ ] Find Journal club paper
 - [x] Work on manuscript ✅ 2026-05-23
+
+
+==26.05.2026==
+
+- [ ] Split SAOS2 cells,
+- [ ] Split RAW cells
+- [ ] write cohort selection methods manuscript
+- [ ] 

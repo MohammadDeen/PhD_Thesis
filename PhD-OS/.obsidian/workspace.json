@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Daily Notes/Daily Note.md.md",
+                "file": "01 Daily Notes/Daily To do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Note.md"
+              "title": "Daily To do"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "9e400b002afc07f0",
   "lastOpenFiles": [
-    "01 Daily Notes/Daily To do.md",
     "01 Daily Notes/Daily Note.md.md",
+    "01 Daily Notes/Daily To do.md",
+    "12 Sticky notes/21.05.2026.md",
     "00 Dashboard/Thesis Overview.md",
     "00 Dashboard/Reading Queue.md",
     "00 Dashboard/Projects Overview.md",
@@ -229,7 +230,6 @@
     "05 Thesis Planning/Chapter Outline.md",
     "Pasted image 20260513174236.png",
     "clinicaal SAPHO.png",
-    "12 Sticky notes/21.05.2026.md",
     "08 Ideas/RNAseq ideas.md",
     "12 Sticky notes",
     "thesis-manuscript/figures",
