@@ -53,5 +53,5 @@
 
 ==27.05.2026==
 
-- [ ] TRAP staining
-- [ ] Detach and freeze osteoclasts
+- [x] TRAP staining ✅ 2026-05-27
+- [x] Detach and freeze osteoclasts ✅ 2026-05-27
