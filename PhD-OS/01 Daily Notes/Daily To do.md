@@ -50,4 +50,8 @@
 - [x] Freez SAOS2 cells, ✅ 2026-05-26
 - [x] Split RAW cells ✅ 2026-05-26
 - [ ] write cohort selection methods manuscript
-- [ ] 
+
+==27.05.2026==
+
+- [ ] TRAP staining
+- [ ] Detach and freeze osteoclasts
