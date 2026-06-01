@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Daily Notes/Daily To do.md",
+                "file": "12 Sticky notes/12 Tools and Softwares/Paperbanana/Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily To do"
+              "title": "Setup"
             }
           }
         ]
@@ -220,10 +220,14 @@
   },
   "active": "510a3c7afc3f2a20",
   "lastOpenFiles": [
-    "05 Thesis Planning/Chapter Outline.md",
     "02 Literature Notes/Costa et al 2026 Expansion of bone marrow adipocytes in obese mice leads to PD-L1-driven bone marrow immunosuppression and osteoclastogenesis.md",
-    "12 Sticky notes/21.05.2026.md",
+    "12 Sticky notes/12 Tools and Softwares/Paperbanana/Setup.md",
+    "12 Sticky notes/12 Tools and Softwares/Paperbanana",
+    "12 Sticky notes/12 Tools and Softwares",
+    "Osteoclast biology.md",
     "01 Daily Notes/Daily To do.md",
+    "05 Thesis Planning/Chapter Outline.md",
+    "12 Sticky notes/21.05.2026.md",
     "01 Daily Notes/Daily Note.md.md",
     "00 Dashboard/Thesis Overview.md",
     "00 Dashboard/Reading Queue.md",
@@ -251,12 +255,8 @@
     "04 Projects/Public RNAseq Reanalysis.md",
     "Daily To do.md",
     "RNAseq ideas.md",
-    "12 Sticky notes.md",
-    "Sticky notes.md",
     "thesis-manuscript/chapters/06-materials-methods.qmd",
     "thesis-manuscript/_book/chapters/06-materials-methods.html",
-    "thesis-manuscript/_book/site_libs/quarto-html/tabsets/tabsets.js",
-    "thesis-manuscript/_book/site_libs/quarto-search/quarto-search.js",
-    "thesis-manuscript/_book/site_libs/quarto-search/autocomplete.umd.js"
+    "thesis-manuscript/_book/site_libs/quarto-html/tabsets/tabsets.js"
   ]
 }

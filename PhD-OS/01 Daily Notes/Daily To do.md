@@ -55,3 +55,10 @@
 
 - [x] TRAP staining ✅ 2026-05-27
 - [x] Detach and freeze osteoclasts ✅ 2026-05-27
+
+
+==01.06.2026==
+
+- [ ] Extract DNA from MUTZ3 cells
+- [ ] Continue working on manuscript - figure 2
+- [ ] Prepare journal club presentation
