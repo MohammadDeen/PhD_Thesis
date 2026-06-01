@@ -59,6 +59,8 @@
 
 ==01.06.2026==
 
-- [ ] Extract DNA from MUTZ3 cells
+- [x] Extract DNA from MUTZ3 cells ✅ 2026-06-01
 - [ ] Continue working on manuscript - figure 2
 - [ ] Prepare journal club presentation
+- [ ] meeting with ulrike
+- [ ] 
