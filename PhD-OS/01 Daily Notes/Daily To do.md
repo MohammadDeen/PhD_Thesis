@@ -62,5 +62,12 @@
 - [x] Extract DNA from MUTZ3 cells ✅ 2026-06-01
 - [ ] Continue working on manuscript - figure 2
 - [ ] Prepare journal club presentation
-- [ ] meeting with ulrike
-- [ ] 
+- [x] meeting with ulrike ✅ 2026-06-02
+
+
+
+==02.06.2026==
+
+- [ ] PI  and IL-1B assay
+- [ ] Prepare journal club paper
+- [ ] Seed Raw and 5637 cells
