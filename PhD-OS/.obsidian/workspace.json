@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Protocols/Varioskan LUX + SkanIt 7.0.2 — setup for real-time PI cell-death kinetic.md",
+                "file": "09 Protocols/Protocol – Propidium iodide cell death assay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Varioskan LUX + SkanIt 7.0.2 — setup for real-time PI cell-death kinetic"
+              "title": "Protocol – Propidium iodide cell death assay"
             }
           }
         ]
@@ -220,8 +220,8 @@
   },
   "active": "510a3c7afc3f2a20",
   "lastOpenFiles": [
-    "01 Daily Notes/Daily To do.md",
     "09 Protocols/Varioskan LUX + SkanIt 7.0.2 — setup for real-time PI cell-death kinetic.md",
+    "01 Daily Notes/Daily To do.md",
     "09 Protocols/UCN-01 PI cell-death + IL-1β assay — Pyrin inflammasome (FMF).md",
     "09 Protocols/Protocol – Propidium iodide cell death assay.md",
     "02 Literature Notes/Furer et al. 2024 Current and future advances in practice- SAPHO syndrome and chronic non-bacterial osteitis (CNO).md",
