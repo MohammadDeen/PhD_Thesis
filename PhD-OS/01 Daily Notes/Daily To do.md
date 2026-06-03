@@ -75,6 +75,6 @@
 
 ==03.06.2026==
 
-- [ ] Analyse PI assay?
-- [ ] IL-1B ELISA?
-- [ ] prepare talk for journal club
+- [x] Analyse PI assay? ✅ 2026-06-03
+- [x] IL-1B ELISA? next day ✅ 2026-06-03
+- [x] prepare talk for journal club-  next day ✅ 2026-06-03
