@@ -71,3 +71,10 @@
 - [x] PI  and IL-1B assay ✅ 2026-06-02
 - [x] Prepare journal club paper- move to next day ✅ 2026-06-02
 - [x] Seed Raw and 5637 cells ✅ 2026-06-02
+
+
+==03.06.2026==
+
+- [ ] Analyse PI assay?
+- [ ] IL-1B ELISA?
+- [ ] prepare talk for journal club
