@@ -82,3 +82,67 @@
 
 ==05.06.2026==
 - [x] IL1-B ELISA ✅ 2026-06-05
+
+==08.06.2026==
+
+- [x] Analyse IL1B assay ✅ 2026-06-08
+- [x] Test PI kinetics in ThP1 ✅ 2026-06-08
+- [x] change media , 5636 ✅ 2026-06-08
+- [x] passage THP1 cells ✅ 2026-06-08
+
+==09.06.2026==
+
+- [x] Put RAW cells into culkture ✅ 2026-06-09
+- [x] Prepare the plan for crispr on Wednesday ✅ 2026-06-09
+- [x] Work on presentation ✅ 2026-06-09
+
+==10.06.2026==
+
+- [x] Do CRISPR ✅ 2026-06-10
+- [x] continue with Journal club presentation ✅ 2026-06-10
+- [ ] Plate RAW cells
+- [x] Discuss with the students regarding crispr ✅ 2026-06-10
+
+
+==11.06.2026==
+
+- [ ] Passage 5337 cells, collected conditioned 🔼 
+- [ ] Start osteoclasts differentiation from RAW cells
+- [x] Meeting with Ulrike to discuss manuscript ✅ 2026-06-11
+- [x] Work on journal club presentation ✅ 2026-06-11
+
+
+==12.06.2026==
+
+- [x] Passage 5337 cells, collected conditioned 🔼 ✅ 2026-06-12
+- [x] Start osteoclasts differentiation from RAW cells ✅ 2026-06-12
+- [ ] work on manuscript
+
+==13.06.2026==
+
+- [x] Finish Journal club presentation ✅ 2026-06-13
+- [x] Change media and add RANKL to RAW cells ✅ 2026-06-13
+
+
+==15.06.2026==
+
+- [x] Work on IL1RN manuscript ✅ 2026-06-15
+- [x] Change RAW-osteoclast media, passage RAW cells ✅ 2026-06-15
+- [x] Passage SAOS two cells/ Passage or collect conditioned media of 5637 ✅ 2026-06-15
+
+
+==16.06.2026==
+
+- [x] Practice Journal club presentation ✅ 2026-06-18
+- [x] Collect condition medium from 5637 or passage ✅ 2026-06-18
+
+
+==18.06.2026==
+
+- [x] Finish Journal club presentation ✅ 2026-06-19
+- [x] Stain Raw osteoclasts ✅ 2026-06-19
+
+
+==19.06.2026==
+
+- [x] Journal club ✅ 2026-06-19
