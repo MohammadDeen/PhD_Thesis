@@ -146,3 +146,10 @@
 ==19.06.2026==
 
 - [x] Journal club ✅ 2026-06-19
+
+
+==22.06.2026==
+
+- [ ] Take care of cells
+- [ ] Lab meeting
+- [ ] cr
