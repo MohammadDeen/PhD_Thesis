@@ -150,6 +150,6 @@
 
 ==22.06.2026==
 
-- [ ] Take care of cells
-- [ ] Lab meeting
-- [ ] cr
+- [x] Take care of cells ✅ 2026-06-22
+- [x] Lab meeting ✅ 2026-06-22
+- [x] CRISPR THP-1 and MUTZ3 cells ✅ 2026-06-22
