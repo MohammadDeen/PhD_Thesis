@@ -153,3 +153,11 @@
 - [x] Take care of cells ✅ 2026-06-22
 - [x] Lab meeting ✅ 2026-06-22
 - [x] CRISPR THP-1 and MUTZ3 cells ✅ 2026-06-22
+
+
+==23.06.2026==
+
+- [ ] Viability test on CRISPR cells and GFP control
+- [ ] Add Jiang paper to the manuscript citation
+- [ ] Write in PhD thesis methods,
+- [ ] Split 5637 cells
