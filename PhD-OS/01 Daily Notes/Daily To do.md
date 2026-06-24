@@ -157,7 +157,12 @@
 
 ==23.06.2026==
 
-- [ ] Viability test on CRISPR cells and GFP control
-- [ ] Add Jiang paper to the manuscript citation
-- [ ] Write in PhD thesis methods,
-- [ ] Split 5637 cells
+- [x] Viability test on CRISPR cells and GFP control ✅ 2026-06-24
+- [x] Add Jiang paper to the manuscript citation ✅ 2026-06-24
+- [x] Write in PhD thesis methods, ✅ 2026-06-24
+- [x] Split 5637 cells ✅ 2026-06-24
+
+==24.06.2026=
+
+- [ ] Collect conditioned media from 5637
+- [ ] label heparin tubes for experiments tomorrow
