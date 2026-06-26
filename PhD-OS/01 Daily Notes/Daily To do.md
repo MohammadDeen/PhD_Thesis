@@ -164,5 +164,13 @@
 
 ==24.06.2026=
 
-- [ ] Collect conditioned media from 5637
-- [ ] label heparin tubes for experiments tomorrow
+- [x] Collect conditioned media from 5637 ✅ 2026-06-26
+- [x] label heparin tubes for experiments tomorrow ✅ 2026-06-26
+
+==25.06.2026=
+
+- [x] Start osteoclast differentiation from FN1 patient and 2 controls ✅ 2026-06-26
+
+==26.06.2026=
+
+- [ ] Start osteoclast differentiation from VSIG4 patient and 2 controls
