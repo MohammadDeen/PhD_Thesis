@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "a357642ebe27bacd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb1c9ce715dacbd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eea7cf510ab3cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Projects/IL1RN Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IL1RN Project"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8dd77a4585678f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "949fdfdb90caaf76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "166fd135b18501e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "181230b2f06ad1de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0466dc443a043db2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d481fc4ae47a855",
+    "type": "split",
+    "children": [
+      {
+        "id": "5da3f13b5ac4400c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e76415094d1f1f0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 Projects/IL1RN Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for IL1RN Project"
+            }
+          },
+          {
+            "id": "216a5de4a57b6e11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 Projects/IL1RN Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IL1RN Project"
+            }
+          },
+          {
+            "id": "b25009e9a09b4275",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b7ad8d075ef8deb3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8f44995cfb2d0725",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 Projects/IL1RN Project.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of IL1RN Project"
+            }
+          },
+          {
+            "id": "c80bfa76049272ae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "da2d3609ee243c05",
+            "type": "leaf",
+            "state": {
+              "type": "github-issue-controls-view",
+              "state": {},
+              "icon": "github",
+              "title": "Github Issue Controls"
+            }
+          },
+          {
+            "id": "53b97e4ce700d30a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "githobs:Manage a github issue": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5eea7cf510ab3cbe",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "04 Projects/IL1RN Project.md",
+    "thesis-manuscript/_book/search.json",
+    "04 Projects/VSIG4  project.md",
+    "04 Projects/PTGS1 Project.md",
+    "04 Projects/Public RNAseq Reanalysis.md",
+    "08 Ideas/RNAseq ideas.md",
+    "06 Experiments/PGE2 ELISA.md",
+    "06 Experiments/Co-transfection of PTGS1 constructs into HEK cells.md",
+    "Pasted image 20260629115628.png",
+    "06 Experiments/Mutagenesis PTGS1.md",
+    "Pasted image 20260629115228.png",
+    "COX1 signaling.md",
+    "2026-06-29.md",
+    "Untitled 1.canvas",
+    "2026-06-11.md",
+    "clinicaal SAPHO.png",
+    "final_output.png",
+    "Osteoclast biology.md",
+    "Paper 1.md"
+  ]
+}

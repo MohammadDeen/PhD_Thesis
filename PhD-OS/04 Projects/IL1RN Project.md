@@ -1,1 +1,4 @@
 Manuscript is in preparation
+What we have done so far!
+identify 3' UTR *IL1RN* variants in 2 patient with GPP  who also happen to have a known disease variant in *IL36RN*. the 2 genes  and variants are within 70kb of each other leading as to assume they must be on the same haplotype. We also searched for the haplotype in  a patient-control cohort of the large population based dataset All of Us .
+We colllected neutrophils from PBMCs of  patients and controls with different combinations of *IL1RN*  and *IL36RN* variant status het, hom, wildtype and so on. We did a bulk RNASeq on the neutrophils .

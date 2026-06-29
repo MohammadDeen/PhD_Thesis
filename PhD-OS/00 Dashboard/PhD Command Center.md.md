@@ -5,7 +5,7 @@
 - [[IL1RN Project]]
 - [[Public RNAseq Reanalysis]]
 - [[FN1 and CNO]]
-- [[VSIG4 and CNO]]
+- [[VSIG4  project]]
 
 ## Thesis
 - [[Chapter Outline]]

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 6. Materials and Methods
 
 ## 6.1. Patient Recruitment
@@ -8,17 +7,7 @@
 Primers were designed for Sanger sequencing and colony PCR to confirm the identity and orientation of cloned inserts and to verify site-directed mutagenesis of VSIG4 and PTGS1 constructs or CRISPR efficiency. Mutagenic primers for site-directed mutagenesis were designed manually to incorporate the desired missense and stop variants or alternatively designed using the NEBuilder Assembly Tool (New England Biolabs). For all other primers, the tool Primer3web version 4.1.0 was used. Reference sequences were fetched from the UCSC Genome Browser (hg19). In the extended colour options, exons, common SNPs and repeat regions were marked. The annotated sequence was then copied into a Word file, where the positions of the forward and reverse primers were manually located and marked. Primers that overlapped with a SNP or repeat region were excluded and replaced with alternative primer sets. General primer picking conditions were set as follows: primer size minimum 18 bp, optimum 20 bp, maximum 23 bp; primer Tm minimum 57.0 °C, optimum 59.0 °C, maximum 62.0 °C with a maximum Tm difference of 5.0 °C; primer GC content minimum 30.0%, optimum 50.0%, maximum 70.0%. Thermodynamic parameters were calculated using the SantaLucia 1998 table.
 
 ## 6.3. Polymerase Chain Reaction (PCR)
-=======
-# Materials and Methods
 
-## Patient Recruitment
-
-## Primer Design
-
-Primers were designed for Sanger sequencing and colony PCR to confirm the identity and orientation of cloned inserts and to verify site-directed mutagenesis of VSIG4 and PTGS1 constructs or CRISPR efficiency. Mutagenic primers for site-directed mutagenesis were designed manually to incorporate the desired missense and stop variants or alternatively designed using the NEBuilder Assembly Tool (New England Biolabs). For all other primers, the tool Primer3web version 4.1.0 was used. Reference sequences were fetched from the UCSC Genome Browser (hg19). In the extended colour options, exons, common SNPs and repeat regions were marked. The annotated sequence was then copied into a Word file, where the positions of the forward and reverse primers were manually located and marked. Primers that overlapped with a SNP or repeat region were excluded and replaced with alternative primer sets. General primer picking conditions were set as follows: primer size minimum 18 bp, optimum 20 bp, maximum 23 bp; primer Tm minimum 57.0 °C, optimum 59.0 °C, maximum 62.0 °C with a maximum Tm difference of 5.0 °C; primer GC content minimum 30.0%, optimum 50.0%, maximum 70.0%. Thermodynamic parameters were calculated using the SantaLucia 1998 table.
-
-## Polymerase Chain Reaction (PCR)
->>>>>>> origin/main
 
 Polymerase chain reaction (PCR) was performed to amplify DNA fragments for colony screening and sequence verification. A standard reaction was used, if not indicated otherwise (@tbl-pcr-reaction).
 
@@ -54,19 +43,16 @@ Incubation took place in a thermocycler using the programme Cx32 (@tbl-cx32).
 
 For longer fragments (>1 kbp), the elongation time was adjusted to 1 min per 1 kbp. In some experiments, the programme Cx32_55_2min was used, which employed an annealing temperature of 55 °C and an extension time of 2 minutes. All primers were purchased from Thermo Fisher Scientific. Stock solutions (100 µM) were prepared by dissolving oligonucleotides in nuclease-free water, and working solutions were prepared at a concentration of 10 µM.
 
-<<<<<<< HEAD
 ## 6.4. Agarose Gel Electrophoresis
 
 To verify whether PCR fragments had the expected size, agarose gel electrophoresis was performed. Agarose gels of 1–1.5% (w/v) were prepared in TBE buffer. A DNA binding dye was added to the molten agarose before casting. Before loading, 3 µL of loading dye was added to 3–6 µL of PCR product. A 1 kb Plus DNA Ladder (Bio-Rad) was used as a size reference. Gels were run in TBE-filled electrophoresis chambers at 100–220 V for 20–30 minutes and imaged on a ChemiDoc™ Touch Imaging System (Bio-Rad).
 
 ## 6.5. Sanger Sequencing
-=======
 ## Agarose Gel Electrophoresis
 
 To verify whether PCR fragments had the expected size, agarose gel electrophoresis was performed. Agarose gels of 1–1.5% (w/v) were prepared in TBE buffer. A DNA binding dye was added to the molten agarose before casting. Before loading, 3 µL of loading dye was added to 3–6 µL of PCR product. A 1 kb Plus DNA Ladder (Bio-Rad) was used as a size reference. Gels were run in TBE-filled electrophoresis chambers at 100–220 V for 20–30 minutes and imaged on a ChemiDoc™ Touch Imaging System (Bio-Rad).
 
 ## Sanger Sequencing
->>>>>>> origin/main
 
 Sanger sequencing was used to confirm the identity and sequence integrity of plasmid constructs and to verify site-directed mutagenesis. PCR products intended for sequencing were first cleaned up using AMPure XP magnetic beads (Beckman Coulter), either manually or via a Biomek pipetting robot. Alternatively, plasmid DNA (50 ng/µL) was used directly in the sequencing reaction without prior cleanup. The sequencing reaction was performed using the BigDye Terminator v3.1 cycle sequencing kit (Thermo Fisher Scientific, @tbl-seq-reaction).
 

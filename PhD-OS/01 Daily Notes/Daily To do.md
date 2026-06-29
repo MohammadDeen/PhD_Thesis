@@ -164,7 +164,6 @@
 
 ==24.06.2026=
 
-<<<<<<< HEAD
 - [x] Collect conditioned media from 5637 ✅ 2026-06-26
 - [x] label heparin tubes for experiments tomorrow ✅ 2026-06-26
 
