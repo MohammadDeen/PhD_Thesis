@@ -178,3 +178,10 @@
 - [x] Collect conditioned media from 5637 ✅ 2026-06-26
 - [x] label heparin tubes for experiments tomorrow ✅ 2026-06-26
 
+
+==29.06.2026=
+
+- [ ] Change osteoclast media
+- [ ] collect conditioned medium from 5637
+- [ ] write on my thesis methods
+- [ ] Do a PCR for sequencing Annabels DNA
