@@ -189,6 +189,6 @@
 ==30.06.2026=
 
 - [ ]  Do a PCR for sequencing Annabels DNA
-- [ ] Find wANNOVAR list for Ariane 
+- [x] Find wANNOVAR list for Ariane ✅ 2026-06-30
 - [ ] collect conditioned medium from 5637
 - [ ] write thesis methods
