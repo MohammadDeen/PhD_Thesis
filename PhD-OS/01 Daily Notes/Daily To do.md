@@ -180,7 +180,15 @@
 
 ==29.06.2026=
 
-- [ ] Change osteoclast media
+- [x] Change osteoclast media ✅ 2026-06-30
 - [ ] collect conditioned medium from 5637
-- [ ] write on my thesis methods
+- [x] write on my thesis methods ✅ 2026-06-30
 - [ ] Do a PCR for sequencing Annabels DNA
+
+
+==30.06.2026=
+
+- [ ]  Do a PCR for sequencing Annabels DNA
+- [ ] Find wANNOVAR list for Ariane 
+- [ ] collect conditioned medium from 5637
+- [ ] write thesis methods
