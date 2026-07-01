@@ -192,3 +192,12 @@
 - [x] Find wANNOVAR list for Ariane ✅ 2026-06-30
 - [ ] collect conditioned medium from 5637
 - [ ] write thesis methods
+
+
+==01.07.2026=
+
+- [ ] end osteoclast experiment and freez osteoclasts
+- [x] change mediuwm for 48 well plate osteoclasts ✅ 2026-07-01
+- [ ] Do a PCR for sequencing Annabels DNA
+- [ ] write thesis methods
+- [ ] Analyse crispr editing results
