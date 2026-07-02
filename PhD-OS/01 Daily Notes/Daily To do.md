@@ -198,6 +198,14 @@
 
 - [ ] end osteoclast experiment and freez osteoclasts
 - [x] change mediuwm for 48 well plate osteoclasts ✅ 2026-07-01
-- [ ] Do a PCR for sequencing Annabels DNA
-- [ ] write thesis methods
-- [ ] Analyse crispr editing results
+- [x] Do a PCR for sequencing Annabels DNA ✅ 2026-07-02
+- [x] write thesis methods ✅ 2026-07-02
+- [x] Analyse crispr editing results ✅ 2026-07-02
+
+==02.07.2026=
+
+- [x] end FN1 osteoclast ✅ 2026-07-02
+- [x] Collect condition  medium ✅ 2026-07-02
+- [x] passage 5637 cells ✅ 2026-07-02
+- [x] Prepare to submit manuscript ✅ 2026-07-02
+- [ ] 
