@@ -208,4 +208,9 @@
 - [x] Collect condition  medium ✅ 2026-07-02
 - [x] passage 5637 cells ✅ 2026-07-02
 - [x] Prepare to submit manuscript ✅ 2026-07-02
-- [ ] 
+
+
+==03.07.2026=
+
+- [x] Submit manuscript ✅ 2026-07-03
+- [x] Do TRAP staining ✅ 2026-07-03
