@@ -110,11 +110,11 @@
               "type": "backlink",
               "state": {
                 "file": "01 Daily Notes/Daily To do.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "git",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -210,7 +210,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e76415094d1f1f0a",
+  "active": "53b97e4ce700d30a",
   "lastOpenFiles": [
     "11 Sticky notes/Osteoclast Control metadata 21.05.2026, 25.06.2026, 206.06.2026.md",
     "manuscripts/IL1RN.md",
