@@ -214,3 +214,10 @@
 
 - [x] Submit manuscript ✅ 2026-07-03
 - [x] Do TRAP staining ✅ 2026-07-03
+
+
+==06.07.2026=
+
+- [ ] Passage  5637
+- [ ] Bring SAOS2 in culture
+- [ ] Plan the experiments for the next 3 weeks
