@@ -218,6 +218,6 @@
 
 ==06.07.2026=
 
-- [ ] Passage  5637
+- [x] Passage  5637 ✅ 2026-07-06
 - [ ] Bring SAOS2 in culture
-- [ ] Plan the experiments for the next 3 weeks
+- [x] Plan the experiments for the next 3 weeks ✅ 2026-07-06
