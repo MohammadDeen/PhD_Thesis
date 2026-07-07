@@ -225,6 +225,6 @@
 
 ==07.07.2026=
 
-- [ ] Bring SAOS2 into cultiure
-- [ ] write thesis
+- [x] Bring SAOS2 into cultiure ✅ 2026-07-07
+- [x] write thesis ✅ 2026-07-07
 - [ ] 
