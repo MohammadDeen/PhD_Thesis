@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(git push *)",
-      "Bash(echo \"EXIT:$?\")"
+      "Bash(echo \"EXIT:$?\")",
+      "Bash(git -C \"V:\\\\AG Hueffmeier\\\\Mitarbeiter\\\\Deen\\\\PhD_Thesis\" diff --stat -- PhD-OS/thesis-manuscript/chapters/06-materials-methods.qmd)"
     ]
   }
 }
