@@ -227,4 +227,10 @@
 
 - [x] Bring SAOS2 into cultiure ✅ 2026-07-07
 - [x] write thesis ✅ 2026-07-07
-- [ ] 
+
+==08.07.2026=
+
+- [x] Collect conditioned medium from 5637 ✅ 2026-07-08
+- [ ] Write protocols and results
+- [ ] Write thesis
+
