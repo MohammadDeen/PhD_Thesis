@@ -7,12 +7,16 @@ book:
   downloads: [pdf, docx]
   chapters:
     - index.qmd
-    - chapters/01-introduction.qmd
-    - chapters/02-genetics.qmd
-    - chapters/03-functional.qmd
-    - chapters/04-rnaseq.qmd
+    - chapters/01-zusammenfassung.qmd
+    - chapters/02-abstract.qmd
+    - chapters/03-introduction.qmd
+    - chapters/04-results.qmd
     - chapters/05-discussion.qmd
     - chapters/06-materials-methods.qmd
+    - chapters/07-references.qmd
+    - chapters/08-acknowledgements.qmd
+    - chapters/09-publications.qmd
+    - chapters/10-supplements.qmd
 
 
 bibliography: refs.bib
