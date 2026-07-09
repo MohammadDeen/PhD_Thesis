@@ -231,6 +231,12 @@
 ==08.07.2026=
 
 - [x] Collect conditioned medium from 5637 ✅ 2026-07-08
-- [ ] Write protocols and results
-- [ ] Write thesis
+- [x] Write protocols and results ✅ 2026-07-09
+- [x] Write thesis ✅ 2026-07-09
 
+==09.07.2026=
+
+- [ ] Check THP-1 limiting dilution plates
+- [ ] Continue writing on the PTGS1 project
+- [ ] Write on thesis methods
+- [ ] Bring Raw cells to culture?
