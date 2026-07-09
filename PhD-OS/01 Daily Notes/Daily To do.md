@@ -236,7 +236,7 @@
 
 ==09.07.2026=
 
-- [ ] Check THP-1 limiting dilution plates
-- [ ] Continue writing on the PTGS1 project
+- [x] Check THP-1 limiting dilution plates ✅ 2026-07-09
+- [x] Continue writing on the PTGS1 project ✅ 2026-07-09
 - [ ] Write on thesis methods
 - [ ] Bring Raw cells to culture?
