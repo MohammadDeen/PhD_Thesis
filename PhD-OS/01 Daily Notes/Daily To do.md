@@ -240,3 +240,9 @@
 - [x] Continue writing on the PTGS1 project ✅ 2026-07-09
 - [ ] Write on thesis methods
 - [ ] Bring Raw cells to culture?
+
+
+==10.07.2026=
+
+- [x] change medium, SAOS2 ✅ 2026-07-10
+- [x] Format manuscript for JID and author list entry ✅ 2026-07-10
