@@ -249,6 +249,7 @@
 
 ==13.07.2026=
 
-- [ ] Finish author information submission
-- [ ] Change/ Passage SAOS2 cells
-- [ ] Test run with Nathalie
+- [x] Finish author information submission ✅ 2026-07-13
+- [x] Change/ Passage SAOS2 cells ✅ 2026-07-13
+- [x] Test run with Nathalie ✅ 2026-07-13
+- [x] change medium, freez cells (mutz3, thp-1, saos2) ✅ 2026-07-13

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Protocols/UCN-01 PI cell-death + IL-1β assay — Pyrin inflammasome (FMF).md",
+                "file": "01 Daily Notes/Daily To do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UCN-01 PI cell-death + IL-1β assay — Pyrin inflammasome (FMF)"
+              "title": "Daily To do"
             }
           }
         ],
@@ -235,6 +235,7 @@
   },
   "active": "5113bd0c926008ee",
   "lastOpenFiles": [
+    "09 Protocols/UCN-01 PI cell-death + IL-1β assay — Pyrin inflammasome (FMF).md",
     "03 Concepts/COX1 signalling in CNO and PP.md",
     "PBMC NLRP3.md",
     "00 Dashboard/PhD Command Center.md.md",
@@ -274,7 +275,6 @@
     "2026-06-11.md",
     "clinicaal SAPHO.png",
     "final_output.png",
-    "Osteoclast biology.md",
-    "Paper 1.md"
+    "Osteoclast biology.md"
   ]
 }
