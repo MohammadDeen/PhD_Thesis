@@ -246,3 +246,9 @@
 
 - [x] change medium, SAOS2 ✅ 2026-07-10
 - [x] Format manuscript for JID and author list entry ✅ 2026-07-10
+
+==13.07.2026=
+
+- [ ] Finish author information submission
+- [ ] Change/ Passage SAOS2 cells
+- [ ] Test run with Nathalie
