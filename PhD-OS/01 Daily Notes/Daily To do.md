@@ -253,3 +253,10 @@
 - [x] Change/ Passage SAOS2 cells ✅ 2026-07-13
 - [x] Test run with Nathalie ✅ 2026-07-13
 - [x] change medium, freez cells (mutz3, thp-1, saos2) ✅ 2026-07-13
+
+
+==14.07.2026=
+
+- [ ] Write project report on PTGS1
+- [ ] Analyse the CRISPRE exp 
+- [ ] Plan the next CRISPR run
