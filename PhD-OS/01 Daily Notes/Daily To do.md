@@ -263,6 +263,12 @@
 
 ==15.07.2026=
 
-- [ ] Have a look at the limiting dilution plates,
-- [ ] write project report on PTGS1
-- [ ] Plan for experiment on PI kinetics for tomorrow
+- [x] Have a look at the limiting dilution plates, ✅ 2026-07-16
+- [x] write project report on PTGS1 ✅ 2026-07-16
+- [x] Plan for experiment on PI kinetics for tomorrow ✅ 2026-07-16
+
+==16.07.2026=
+
+- [ ] Start the limiting dilution for MUTZ3 cells
+- [ ] Write the osteoclast arm of the PTGS1 experiments
+- [ ] Analyse the PI assay results
