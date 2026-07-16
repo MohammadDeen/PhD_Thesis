@@ -257,6 +257,12 @@
 
 ==14.07.2026=
 
-- [ ] Write project report on PTGS1
+- [x] Write project report on PTGS1 ✅ 2026-07-15
 - [ ] Analyse the CRISPRE exp 
 - [ ] Plan the next CRISPR run
+
+==15.07.2026=
+
+- [ ] Have a look at the limiting dilution plates,
+- [ ] write project report on PTGS1
+- [ ] Plan for experiment on PI kinetics for tomorrow
