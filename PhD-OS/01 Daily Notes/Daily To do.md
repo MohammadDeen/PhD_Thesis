@@ -278,3 +278,10 @@
 - [ ] Start the limiting dilution for MUTZ3 cells
 - [ ] Write the osteoclast arm of the PTGS1 experiments
 - [ ] Analyse the PI assay results
+
+
+==20.07.2026=
+
+- [ ] Start the limiting dilution for MUTZ3 cells
+- [ ] Passage SAOS2 cells
+- [ ] Check THP-1 limiting dilution plates
