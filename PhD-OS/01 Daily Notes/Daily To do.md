@@ -286,3 +286,9 @@
 - [x] Change media/passage   SAOS2 cells, THP-1, MUTZ3 ✅ 2026-07-20
 - [x] Check THP-1 limiting dilution plates ✅ 2026-07-20
 - [x] Do Hommer analysis for IL1RN project ✅ 2026-07-20
+
+==21.07.2026=
+
+- [ ] MUTZ3 HDR PTGS1
+- [ ] Ressuspend PMA
+- [ ] 
