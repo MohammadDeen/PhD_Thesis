@@ -30,4 +30,4 @@ Effects of 3' UTR on steady state mRNA levels
 
 Figure 5
 Effects of 3' UTR and its middle section on translation of reporter in vitro
-Fi
+Figure 6 Effects of 3' UTR and its deletion on processing of pre-mRNA transcript
