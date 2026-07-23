@@ -294,4 +294,9 @@
 
 ==22.07.2026=
 
-- [ ] 
+- [ ] Identify wells with cells in the 96 well limiting diulutions done by alex and daniel
+- [ ] Prepare the methods and discusion for the analysis  i did on the UTR variant for the IL12RN paper
+
+==23.07.2026=
+
+- [ ] Finish writing the analysis rerport on the 3 prime UTR variant , ie HOMER, ATRACT and so on
