@@ -388,3 +388,9 @@
 ==13.08.2026==
 
 - [ ] Reading hypothesis and plan for the cno project
+
+
+==14.08.2026==
+
+- [ ] Prepare literature notes  CNO biology papers
+- [ ] 
