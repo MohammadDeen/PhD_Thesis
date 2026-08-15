@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5eea7cf510ab3cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Daily Notes/Daily Note.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Note.md"
-            }
-          },
-          {
             "id": "5113bd0c926008ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Literature Notes/A POSSIBLE ROLE OF IL-1RA 3 -UNTRANSLATED REGION IN MODULATION OF PROTEIN PRODUCTION.md",
+                "file": "02 Literature Notes/CNO disease biology/Li et al. 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A POSSIBLE ROLE OF IL-1RA 3 -UNTRANSLATED REGION IN MODULATION OF PROTEIN PRODUCTION"
+              "title": "Li et al. 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Daily Notes/Daily To do.md",
+                "file": "02 Literature Notes/CNO disease biology/Li et al. 2026.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily To do"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Daily Notes/Daily To do.md",
+                "file": "02 Literature Notes/CNO disease biology/Li et al. 2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily To do"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Daily Notes/Daily To do.md",
+                "file": "02 Literature Notes/CNO disease biology/Li et al. 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily To do"
+              "title": "Outline"
             }
           },
           {
@@ -209,13 +196,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "eca212f0fade9e92",
+            "type": "leaf",
+            "state": {
+              "type": "notebooklm-webview",
+              "state": {},
+              "icon": "book-open",
+              "title": "NotebookLM"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 500.16650390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,34 +227,44 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "githobs:Manage a github issue": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "star-notebooklm:Send to NotebookLM": false,
+      "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "5113bd0c926008ee",
+  "active": "53b97e4ce700d30a",
   "lastOpenFiles": [
-    "01 Daily Notes/Daily To do.md",
+    "02 Literature Notes/CNO disease biology/Wang et al. 2025.md",
+    "02 Literature Notes/CNO disease biology/Li et al. 2026.md",
+    "02 Literature Notes/CNO disease biology/Roberts et al. 2024.md",
+    "02 Literature Notes/CNO disease biology/Furer et al. 2024.md",
+    "02 Literature Notes/CNO disease biology/Charras et al. 2024.md",
+    "02 Literature Notes/CNO disease biology/Hetrick & Oliver 2023.md",
+    "02 Literature Notes/CNO disease biology/Sergi et al. 2022.md",
+    "02 Literature Notes/CNO disease biology/Zhao et al. 2021.md",
+    "02 Literature Notes/CNO disease biology/Gao et al. 2021.md",
+    "02 Literature Notes/CNO disease biology/Liu et al. 2020.md",
+    "02 Literature Notes/Furer et al. 2024 Current and future advances in practice- SAPHO syndrome and chronic non-bacterial osteitis (CNO).md",
+    "02 Literature Notes/CNO disease biology/Hedrich et al. 2020.md",
+    "02 Literature Notes/CNO disease biology/Assmann et al. 2020.md",
+    "02 Literature Notes/CNO disease biology/Brandt et al. 2018.md",
+    "02 Literature Notes/CNO disease biology/Cox et al. 2017.md",
+    "02 Literature Notes/CNO disease biology/Hofmann et al 2015.md",
+    "02 Literature Notes/CNO disease biology/Hofmann et al. 2012.md",
+    "Library/CNO-SAPHO-VSIG4-FN1-Library.md",
+    "02 Literature Notes/CNO disease biology/Hofmann et al. 2011.md",
     "02 Literature Notes/A POSSIBLE ROLE OF IL-1RA 3 -UNTRANSLATED REGION IN MODULATION OF PROTEIN PRODUCTION.md",
-    "02 Literature Notes/Maderstein et al 2026 Decoding common and rare noncoding variant effects across cellular and developmental contexts.md",
+    "02 Literature Notes/CNO disease biology/Hurtado-Nedelec  et al 2008.md",
+    "02 Literature Notes/CNO disease biology",
+    "01 Daily Notes/Daily To do.md",
+    "09 Protocols/All_of_Us_pustular_psoriasis_case_control_protocol_v9.md",
+    "Osteoclast biology.md",
+    "04 Projects/Functional characterisation of VSIG4 and FN1 variants via CRISPR.md",
+    "04 Projects/SAPHO-CNO project plan.md",
+    "Library",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
     "Pasted image 20260720095138.png",
-    "CRISPR 2026-07-17.md",
-    "01 Daily Notes/Daily Note.md.md",
-    "01 Daily Notes/2026-07-14.md",
-    "00 Dashboard/Thesis Overview.md",
-    "00 Dashboard/Reading Queue.md",
-    "00 Dashboard/Projects Overview.md",
-    "00 Dashboard/PhD Command Center.md.md",
-    "2026-06-11.md",
-    "Templates/daily-note.md",
-    "2026-06-29.md",
-    "09 Protocols/UCN-01 PI cell-death + IL-1β assay — Pyrin inflammasome (FMF).md",
-    "03 Concepts/COX1 signalling in CNO and PP.md",
-    "PBMC NLRP3.md",
-    "Templates/literature-note.md",
-    "06 Experiments/Mutagenesis PTGS1.md",
-    "04 Projects/PTGS1 Project.md",
-    "04 Projects/IL1RN Project.md",
-    "09 Protocols/Protocol – Propidium iodide cell death assay.md",
-    "02 Literature Notes/Dynamic neutrophil-keratinocyte communication network centered on IL-36-TNFSF15 responses characterizes inflammatory responses in GPP.md",
     "~$ktorarbeit Stefan Haskamp160222.docx",
     "Doktorarbeit Stefan Haskamp160222.docx",
     "thesis-manuscript/chapters/10-supplements.qmd",
@@ -266,12 +273,6 @@
     "thesis-manuscript/chapters/07-references.qmd",
     "thesis-manuscript/chapters/04-results.qmd",
     "thesis-manuscript/chapters/02-abstract.qmd",
-    "thesis-manuscript/chapters/01-zusammenfassung.qmd",
-    "thesis-manuscript/chapters/03-introduction.qmd",
-    "11 Sticky notes/Osteoclast Control metadata 21.05.2026, 25.06.2026, 206.06.2026.md",
-    "manuscripts/IL1RN.md",
-    "01 Daily Notes/Untitled.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20260629115628.png",
     "Pasted image 20260629115228.png",
     "Untitled 1.canvas",

@@ -294,9 +294,97 @@
 
 ==22.07.2026=
 
-- [ ] Identify wells with cells in the 96 well limiting diulutions done by alex and daniel
-- [ ] Prepare the methods and discusion for the analysis  i did on the UTR variant for the IL12RN paper
+- [x] Identify wells with cells in the 96 well limiting diulutions done by alex and daniel ✅ 2026-07-23
+- [x] Prepare the methods and discusion for the analysis  i did on the UTR variant for the IL12RN paper ✅ 2026-07-23
 
 ==23.07.2026=
 
-- [ ] Finish writing the analysis rerport on the 3 prime UTR variant , ie HOMER, ATRACT and so on
+- [x] Finish writing the analysis rerport on the 3 prime UTR variant , ie HOMER, ATRACT and so on ✅ 2026-07-23
+
+==24.07.2026=
+
+- [x] Transfer crispr clones to 48 well plates ✅ 2026-07-27
+- [x] meeting with Ulrike to discuss method ✅ 2026-07-27
+
+
+==27.07.2026=
+
+- [ ] Isolate DNA from CRISPR clones
+- [ ] prepare protocol for HDR and CRISPR in MUTZ3 , THP-1 and SAOS2
+- [ ] Write in manuscript
+
+==28.07.2026=
+
+- [ ] Isolate DNA from CRISPR clones
+- [ ] write the discussion for the ATRacT analysis 
+- [ ] Finish  preparing protocol for HDR and CRISPR in MUTZ3 , THP-1 and SAOS2
+- [ ]  Write in Thesis
+
+
+==29.07.2026=
+
+- [x] Design graphical abstract for the IL-1RN paper ✅ 2026-08-03
+
+
+==30.07.2026=
+
+- [x] Passage SAOS2, THP-1 ✅ 2026-08-03
+- [x] Change media MUTZ3, CRISPR clones ✅ 2026-08-03
+- [x] Analyse sanger sequence for Single CRISPR clones ✅ 2026-08-03
+- [x] Plan the experiments around FN1 and VSIG4, build reference library ✅ 2026-08-03
+
+==31.07.2026=
+
+- [ ]  Analyse sanger sequence for Single CRISPR clones 
+- [ ] Meeting with Ulrike to discuss thesis and PI experiment
+
+
+==02.08.2026=
+
+- [x] Media change and passage of CRISPRED MUTZ3 cells ✅ 2026-08-04
+
+==03.08.2026=
+
+- [x] CRISPR THP1-cells (HDR) ✅ 2026-08-04
+- [x] SAOS2 cells ✅ 2026-08-04
+
+==04.08.2026=
+
+- [x] CRISPR success, viability check ✅ 2026-08-05
+- [x] Check limiting dilution plates ✅ 2026-08-05
+- [ ] Sanger sequencing AB
+
+==05.08.2026=
+
+- [x] All of Us IL1RN-IL36RN reanalyses ✅ 2026-08-07
+- [ ] Sanger seq AB
+- [x] check THP-1 AA and limiting dilution ✅ 2026-08-07
+
+==06.08.2026=
+
+- [x] DNA extraction from HDR and Knockout CRISPR ✅ 2026-08-07
+- [ ] All of US IL1RN-IL36RN reanalysis
+
+==07.08.2026==
+
+- [ ]  All of US IL1RN-IL36RN reanalysis
+
+
+==10.08.2026==
+
+- [ ] Finish the All of Us reanalysis
+- [ ] Limiting dilution for AA?
+- [ ] Check AC to see if it is confluent
+- [ ] 
+
+==11.08.2026==
+
+- [ ]  All of US IL1RN-IL36RN reanalysis
+
+==12.08.2026==
+
+- [ ]  All of US IL1RN-IL36RN reanalysis
+
+==13.08.2026==
+
+- [ ] Reading hypothesis and plan for the cno project
