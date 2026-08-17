@@ -393,4 +393,9 @@
 ==14.08.2026==
 
 - [ ] Prepare literature notes  CNO biology papers
-- [ ] 
+
+
+==17.08.2026==
+
+- [ ] PCR and sequencing of CRISPR 
+- [ ] read CNO literature
