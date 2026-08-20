@@ -399,3 +399,13 @@
 
 - [ ] PCR and sequencing of CRISPR 
 - [ ] read CNO literature
+
+==18.08.2026==
+
+- [ ] PCR and sequencing of CRISPR 
+
+
+
+==19.08.2026==
+
+- [ ] Limiting dilution AV, NT, NT1 ThP-1 and SAoS2 cells
