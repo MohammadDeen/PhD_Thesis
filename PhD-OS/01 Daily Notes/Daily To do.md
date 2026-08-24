@@ -409,3 +409,15 @@
 ==19.08.2026==
 
 - [ ] Limiting dilution AV, NT, NT1 ThP-1 and SAoS2 cells
+
+==20.08.2026==
+- [ ] PMA treatment of  3 VSIG4 clones for attachment and macrophage-like phenotype
+- [ ] 
+
+==21.08.2026==
+
+- [ ] Writing VSIG4 paper methods
+
+==24.08.2026==
+
+Media change
