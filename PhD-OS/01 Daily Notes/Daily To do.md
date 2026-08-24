@@ -420,4 +420,6 @@
 
 ==24.08.2026==
 
-Media change
+- [ ] Media change
+- [ ] Freeze VSIG4 AD THP-1 single clones AD3_3, AD5, AD7
+- [ ] write in VSIG4 manuscript
