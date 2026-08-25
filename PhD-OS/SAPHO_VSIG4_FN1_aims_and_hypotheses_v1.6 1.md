@@ -241,11 +241,11 @@ A soluble recombinant fragment differs from osteoblast-secreted mutant FN in fol
 
 **Staged stimulus design.** Begin with defined, well-characterised reagents; add disease-relevant stimuli only after a reproducible phenotype exists.
 
-| Stage | Priming (signal 1) | Activation (signal 2) |
-|---|---|---|
-| A — establish | Pam3CSK4, graded | ATP or nigericin, graded |
-| B — bone-relevant | Pam3CSK4 | Basic calcium phosphate / hydroxyapatite crystals (Pazár et al., 2011; Jin et al., 2011) |
-| C — disease-relevant | Heat-killed *C. acnes*, MOI 0.1–1 (Qin et al., 2014) | BCP crystals |
+| Stage                | Priming (signal 1)                                   | Activation (signal 2)                                                                    |
+| -------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| A — establish        | Pam3CSK4, graded                                     | ATP or nigericin, graded                                                                 |
+| B — bone-relevant    | Pam3CSK4                                             | Basic calcium phosphate / hydroxyapatite crystals (Pazár et al., 2011; Jin et al., 2011) |
+| C — disease-relevant | Heat-killed *C. acnes*, MOI 0.1–1 (Qin et al., 2014) | BCP crystals                                                                             |
 
 **Mandatory readout set.** Measuring secreted IL-1β alone conflates priming, translation, assembly, caspase-1 activation, membrane damage, pyroptosis and ordinary cell death. Without separation, increased IL-1β may simply reflect increased death — and this failure mode produces a *positive-looking* result, which is the dangerous direction.
 
