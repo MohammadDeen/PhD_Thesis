@@ -423,3 +423,22 @@
 - [ ] Media change
 - [ ] Freeze VSIG4 AD THP-1 single clones AD3_3, AD5, AD7
 - [ ] write in VSIG4 manuscript
+
+
+==25.08.2026==
+
+- [ ]  write in VSIG4 manuscript
+- [ ] Plan VSIG4 experiments and purchase materials
+
+
+==26.08.2026==
+
+- [ ] Change media of VSIG4 clones osteoclasts plates
+- [ ] Check NT limiting dilution plates for THP1 and SAOs2
+- [ ] Write in IL1RN and VSIG4 manuscripts
+
+
+==27.08.2026==
+
+- [ ] write in VSIG4 manuscript
+- [ ] Change media in VSIG4 clones
