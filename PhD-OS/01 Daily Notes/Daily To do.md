@@ -442,3 +442,22 @@
 
 - [ ] write in VSIG4 manuscript
 - [ ] Change media in VSIG4 clones
+
+
+
+==07.09.2026==
+
+
+- [ ] Expand NT single clones
+- [ ] Passages AD clones, resuspend new AD7 frozen clone
+
+
+==08.09.2026==
+
+- [ ] VSIG4 paper figure 1 draft
+- [ ] Meeting with Ulrike
+
+==09.09.2026==
+
+- [ ]  VSIG4 paper figure 1 draft
+- [ ] Change media and expand NT clones
