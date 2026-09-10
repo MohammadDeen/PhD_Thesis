@@ -461,3 +461,10 @@
 
 - [ ]  VSIG4 paper figure 1 draft
 - [ ] Change media and expand NT clones
+
+
+==10.09.2026==
+
+- [ ] change Saos2 media
+- [ ] Make Cap plates
+- [ ] continue writing VSIG4 manuscript
