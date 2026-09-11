@@ -468,3 +468,8 @@
 - [ ] change Saos2 media
 - [ ] Make Cap plates
 - [ ] continue writing VSIG4 manuscript
+
+
+==10.09.2026==
+ - [ ] Passage Saos2 media
+ - [ ] Make Cap plates
