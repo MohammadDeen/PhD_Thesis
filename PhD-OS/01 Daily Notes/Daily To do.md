@@ -473,3 +473,22 @@
 ==10.09.2026==
  - [ ] Passage Saos2 media
  - [ ] Make Cap plates
+
+
+==13.09.2026==
+
+- [ ] Seed THP-1 cells, knock outs and controls for PMA stimulation
+
+
+==14.09.2026==
+
+- [ ] Seed THP-1 cells, knock outs and controls for PMA stimulation
+- [ ] Freeze rest of NT clones
+- [ ] passage KO clones and 3 selected NT clones
+- [ ] Started All of Us retraining
+
+==15.09.2026==
+
+- [ ] Finish All of Us retraining
+- [ ] stop PMA stimulation and add fresh media
+- [ ] UV CAP plates
