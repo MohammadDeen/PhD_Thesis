@@ -492,3 +492,9 @@
 - [ ] Finish All of Us retraining
 - [ ] stop PMA stimulation and add fresh media
 - [ ] UV CAP plates
+
+==15.09.2026==
+
+- [ ] stop PMA stimulation and add fresh media (P2)
+- [ ]  Freeze rest of NT clones and crispre clones 
+- [ ] Extract RNA from P1 PMA stimulation (first step)
