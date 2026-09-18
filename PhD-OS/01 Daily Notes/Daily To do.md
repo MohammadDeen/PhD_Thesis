@@ -493,8 +493,16 @@
 - [ ] stop PMA stimulation and add fresh media
 - [ ] UV CAP plates
 
-==15.09.2026==
+==16.09.2026==
 
-- [ ] stop PMA stimulation and add fresh media (P2)
-- [ ]  Freeze rest of NT clones and crispre clones 
-- [ ] Extract RNA from P1 PMA stimulation (first step)
+- [x] stop PMA stimulation and add fresh media (P2) ✅ 2026-09-18
+- [x] Freeze rest of NT clones and crispre clones ✅ 2026-09-18
+- [x] Extract RNA from P1 PMA stimulation (first step) ✅ 2026-09-18
+
+==17.09.2026==
+
+- [x] Extract RNA from P2 PMA stimulation (first step) ✅ 2026-09-18
+
+==18.09.2026==
+
+ - [x] expand AV and NT clones in SaOs2 FN1 crispr ✅ 2026-09-18
