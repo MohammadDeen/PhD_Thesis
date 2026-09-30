@@ -505,5 +505,11 @@
 
 ==18.09.2026==
 
- - [x] expand AV and NT clones in SaOs2 FN1 crispr ✅ 2026-09-18
- 
+ - [x] expand AV and NT clones in SaOs2 FN1 crispr in 48 well plate ✅ 2026-09-18
+
+==19.09.2026== to ==29.09.2026==
+- [x] Vacation ✅ 2026-09-30
+
+==30.09.2026==
+
+- [ ] Expand selected AV and NT clones in 6 well plates
