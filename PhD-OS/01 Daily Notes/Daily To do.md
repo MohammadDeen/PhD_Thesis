@@ -513,3 +513,10 @@
 ==30.09.2026==
 
 - [ ] Expand selected AV and NT clones in 6 well plates
+
+
+==01.10.2026==
+
+
+- [ ] Continue RNA extraction from PMA stimulation 
+- [ ] Revive THP1 CRISPR clones
