@@ -25,4 +25,4 @@ The paper **Hurtado-Nedelec 2008** titled "_Characterization of the immune respo
 
 ### **Conclusion**
 
-The study concludes that SAPHO syndrome is characterized by a strong humoral and cellular **pro-inflammatory response** that may be **triggered by an infectious state involving _P. acnes_**, rather than a primarily autoimmune mechanism.
+The study concludes that SAPHO syndrome is ==characterized by a strong humoral and cellular **pro-inflammatory response** that may be **triggered by an infectious state involving _P. acnes_**, rather than a primarily autoimmune mechanism.==
