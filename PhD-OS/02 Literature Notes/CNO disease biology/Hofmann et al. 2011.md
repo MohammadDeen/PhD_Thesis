@@ -4,7 +4,7 @@ The paper **Hofmann et al. 2011**, titled "_Chronic non-bacterial osteomyelitis 
 
 - **Investigate IL-10 Expression:** The study aimed to determine if the immune-modulatory cytokine **interleukin-10 (IL-10)** is dysregulated in patients with chronic non-bacterial osteomyelitis (CNO).
 - **Identify Pathogenic Mechanisms:** Researchers sought to understand whether reduced IL-10 was caused by **genomic variation** (specific DNA sequence polymorphisms) or **epigenetic modifications** (changes in how DNA is packaged and accessed).
-- **Examine Transcription Factors:** The study ==focused on the recruitment of **Sp1**==, a transcription factor known to activate the _IL10_ promoter.
+- **Examine Transcription Factors:** The study ==focused on the recruitment of **Sp1**==, a transcription factor ==known to activate the _IL10_ promoter.==
 
 ### **Methods: What the paper did**
 
