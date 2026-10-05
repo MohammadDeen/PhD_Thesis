@@ -520,3 +520,8 @@
 
 - [ ] Continue RNA extraction from PMA stimulation 
 - [ ] Revive THP1 CRISPR clones
+
+
+==05.10.2026==
+
+- [ ] Extract DNA from AV and NT SAOS2 single clones
