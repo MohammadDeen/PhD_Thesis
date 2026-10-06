@@ -525,3 +525,9 @@
 ==05.10.2026==
 
 - [ ] Extract DNA from AV and NT SAOS2 single clones
+
+
+
+==06.10.2026==
+
+- [ ] PCR of AV and NT clones, Sanger sequencing
